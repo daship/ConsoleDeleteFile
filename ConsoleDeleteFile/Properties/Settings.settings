@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ConsoleDeleteFile.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DeletePatterns" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">{"DeleteModels":[{"Path": "D:\\TestFile\\publish", "IsRecursive": true,  "DeleteFilePatern":"*.txt", "KeepTimeSpan": "3.0:0:0"},{"Path": "D:\\TestFile\\NotRecursive", "IsRecursive": false,  "DeleteFilePatern":"*.pubxml", "KeepTimeSpan": "3.0:0:0"} ]}</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
